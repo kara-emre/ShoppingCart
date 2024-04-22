@@ -1,1 +1,1 @@
-# ShoppintCart
+# ShoppingCart
