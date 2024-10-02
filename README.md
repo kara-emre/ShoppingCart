@@ -1,11 +1,10 @@
 # ShoppingCart API
 
-ShoppingCart is a shopping cart application developed using .NET 8.0 Web API. This project follows the principles of **Domain Driven Design (DDD)** and **Test Driven Development (TDD)** to build a flexible, testable, and maintainable shopping cart system.
+ShoppingCart is a shopping cart application developed using .NET 8.0 Web API. This project follows the principles of **Domain Driven Design (DDD)** to build a flexible, testable, and maintainable shopping cart system.
 
 ## Features
 
 - **Domain Driven Design**: Focus on business rules and domain logic.
-- **Test Driven Development**: Ensures robust and reliable code through automated tests.
 - **Dependency Injection**: For easy management of service dependencies.
 - **Caching**: Implements in-memory caching for performance improvements.
 - **Mapping**: Uses a Mapper library to simplify object mappings.
